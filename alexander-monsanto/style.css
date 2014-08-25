@@ -1,0 +1,29 @@
+html {
+  background-color: black;
+  background-image: url("images/central_cascades.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+nav {
+  background-color: rgba(100,100,100,0.2);
+  font-family: Arial, Verdana, sans-serif;
+  font-style: bold;
+  text-transform: uppercase;
+  text-decoration: none;
+  text-align: justify;
+  padding: 1em;
+}
+a {
+  text-decoration: none;
+  font-style: bold;
+}
+body{
+  background-color: rgba(150,150,150,.15);
+  padding: 10px;
+
+}
+
+h1{
+    color: black;
+  }
+
